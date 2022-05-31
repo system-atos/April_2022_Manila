@@ -1,2 +1,6 @@
 this is my first file..
-mahesh-atos..
+mahesh-atos....
+
+Mango
+Apple
+Grapes
